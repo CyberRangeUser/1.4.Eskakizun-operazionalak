@@ -9,7 +9,7 @@ public class ProgramaInformatikoa{
         
         String ald1= "lehengo belaunaldiaaaaaaaa";
         String ald2= "bigarren belaunaldia";
-        System.out.println(GORRIA+"1.Programa informatikoan 6 puntu desberdin daude, eta ondo azalduko dizkizuet: "+RESET);
+        System.out.println(GORRIA+"1.Programa informatikoan 6 puntu desberdin daude, eta ondo azalduko dizkizuet inportatea baita: "+RESET);
         System.out.print("1.puntua");
         System.out.print("\n");
         System.out.print("2.puntua");
